@@ -1,6 +1,6 @@
 # Unclid Probe
 
-This is a Combination of Euclid Probe and the Unklicky. 
+This is a Combination of [Euclid Probe](https://euclidprobe.github.io/) and [Unklicky](https://github.com/majarspeed/Unklicky). 
 
 I started with me messing up a PCB of the Euclid probe while desoldering a D2F thats been at the end of it's life.
 

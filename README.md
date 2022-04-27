@@ -1,6 +1,11 @@
-# Unclid Probe
+# Unclid Probe (replacement)
 
-This is a Combination of [Euclid Probe](https://euclidprobe.github.io/) and [Unklicky](https://github.com/majarspeed/Unklicky). However design is heavily based on [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
+This is a Replacement for the Euclid Probe. (only probe PCB)
+
+A Combination of [Euclid Probe](https://euclidprobe.github.io/) and [Unklicky](https://github.com/majarspeed/Unklicky).
+
+However design is heavily based on [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
+
 
 I started with me messing up a PCB of the Euclid probe while desoldering a D2F thats been at the end of it's life.
 

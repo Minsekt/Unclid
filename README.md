@@ -1,4 +1,4 @@
-# Unclid Probe (replacement)
+# Unclid Probe (replacement) (BETA)
 
 This is a Replacement for the Euclid Probe. (only probe PCB)
 

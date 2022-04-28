@@ -1,6 +1,6 @@
-# Unclid Probe (replacement) (BETA)
+# Unclid Probe (EUCLID PROBE replacement)
 
-This is a Replacement for the Euclid Probe. (only probe PCB)
+This is a direct replacement for the Euclid Probe.
 
 This is only replacing the lower PCB, which means it doesnt matter if youre using a 24v or 5v euclid.
 
@@ -12,9 +12,10 @@ Bom
 | Name | Pieces |
 | ------ | ------ |
 | Stock Euclid Magnets | 2 |
-| M2x10MM | 2 |
-| M3x8MM | 2 |
-| 6x3MM Magnet | 2 |
+| M1.6 x 10MM | 2 |
+| M2 x 10MM | 2 |
+| 6x3MM Magnet | 1|
+| 10x5x2MM Magnet | 1|
 
 Switch is NC. (design heavily based on Chestwood96's SlideSwipe design)
 

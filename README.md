@@ -19,7 +19,9 @@ Bom
 
 Switch is NC. (design heavily based on Chestwood96's SlideSwipe design)
 
-Works with the Original Euclid Dock without any modifications!
+Works with the Original Euclid Dock without any modifications! (ofc you might need to modify your coords)
+
+it works with auto-z too, i will post offsets etc. soon but you might figure it out by yourselfs for now.
 
 ![1](images/cad.png)
 ![2](images/cad_ss.png)

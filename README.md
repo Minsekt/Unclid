@@ -24,4 +24,11 @@ Works with the Original Euclid Dock without any modifications!
 ![1](images/cad.png)
 ![2](images/cad_ss.png)
 
+![bomp]()
+![instruction1p]()
+![instruction2p]()
+![instruction3p]()
+![instruction4p]()
+![instruction5p]()
+
 

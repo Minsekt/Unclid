@@ -12,7 +12,7 @@ Bom
 | Name | Pieces |
 | ------ | ------ |
 | Stock Euclid Magnets | 2 |
-| M1.6 x 10MM | 2 |
+| M1.6 x 6MM | 2 |
 | M2 x 10MM | 2 |
 | 6x3MM Magnet | 1|
 | 10x5x2MM Magnet | 1|

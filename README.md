@@ -24,11 +24,23 @@ Works with the Original Euclid Dock without any modifications!
 ![1](images/cad.png)
 ![2](images/cad_ss.png)
 
-![bomp]()
-![instruction1p]()
-![instruction2p]()
-![instruction3p]()
-![instruction4p]()
-![instruction5p]()
+ASSEMBLY INSTRUCTIONS
+
+Push 10x5x2MM Magnet down into Base
+![instruction1p](images/instructionp1.jpg)
+
+Push 6x3MM Magnet into Pin
+![instruction2p](images/instructionp2.jpg)
+
+Screw Down Euclid Magnets using M1.6X6MM Screws
+![instruction3p](images/instructionp3.jpg)
+
+![instruction4p](images/instructionp4.jpg)
+Screw in M2x10MM halfway, put pin inside and screw in all the way
+
+![instruction5p](images/instructionp5.gif)
+
+Enjoy your Magnetic Switch!
+
 
 

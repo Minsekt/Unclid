@@ -6,7 +6,7 @@ This is only replacing the lower PCB, which means it doesnt matter if youre usin
 
 A Combination of [Euclid Probe](https://euclidprobe.github.io/) and [Unklicky](https://github.com/majarspeed/Unklicky).
 
-However design is heavily based on [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
+However design is based on a unreleased experimental [SlideSwipe](https://github.com/chestwood96/SlideSwipe) Probe. 
 
 Bom
 | Name | Pieces |

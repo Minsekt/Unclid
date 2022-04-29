@@ -17,7 +17,7 @@ Bom
 | 6x3MM Magnet | 1|
 | 10x5x2MM Magnet | 1|
 
-Switch is NC. (design heavily based on Chestwood96's SlideSwipe design)
+Switch is NC.
 
 Works with the Original Euclid Dock without any modifications! (ofc you might need to modify your coords)
 
